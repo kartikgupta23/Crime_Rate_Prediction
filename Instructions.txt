@@ -1,0 +1,4 @@
+To install the packages listed in the requirements.txt file, you can run the following command:
+pip install Requirements.txt
+
+Read the particular CSV file you wish to analyze and simply run the code.
